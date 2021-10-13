@@ -1,3 +1,5 @@
+# IMPORTANTE: las graficas no se generan en github, dentro del zip se encuentra el project
+
 Inversiones en Energía, S.A. de C.V. presentó un muy buen año 2017 con
 utilidades por encima del millon, en lo que lleva del 2018 presentarón
 una disminución del 25% en su margen operativo, por lo que se realizó un
